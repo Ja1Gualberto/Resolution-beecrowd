@@ -11,9 +11,8 @@ Repositório dedicado ao armazenamento das minhas soluções para os desafios da
 
 As soluções foram implementadas utilizando as seguintes linguagens:
 
-* **Python** (Predominante)
+* **Python**
 * **C / C++**
-* **JavaScript**
 
 ---
 
@@ -56,7 +55,5 @@ O projeto está organizado por categorias ou níveis de dificuldade, seguindo o 
 
 ## 👤 Autor
 
-Desenvolvido por **Jailton Gualberto**.
-Sinta-se à vontade para entrar em contato ou sugerir melhorias nas resoluções!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+Resolvido por **João Gualberto**.
+Sinta-se à vontade para sugerir melhorias nas resoluções!
