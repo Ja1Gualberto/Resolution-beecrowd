@@ -18,14 +18,13 @@ As soluções foram implementadas utilizando as seguintes linguagens:
 
 ## 📂 Estrutura do Repositório
 
-O projeto está organizado por categorias ou níveis de dificuldade, seguindo o padrão da plataforma:
+O projeto está organizado por linguagem de programação:
 
-| Categoria | Descrição |
+| Pasta | Linguagem |
 | :--- | :--- |
-| `1-Iniciante` | Problemas básicos de lógica e sintaxe. |
-| `2-Ad-Hoc` | Problemas de simulação e contextos específicos. |
-| `3-Strings` | Manipulação de textos e padrões. |
-| `4-Estruturas` | Filas, Pilhas, Mapas e Árvores. |
+| `c/` | C |
+| `python/` | Python |
+| `c++/` | C++ |
 
 > **Dica:** Cada arquivo de código é nomeado com o ID do problema (ex: `1001.py`) para facilitar a busca.
 
@@ -47,9 +46,10 @@ O projeto está organizado por categorias ou níveis de dificuldade, seguindo o 
     ```bash
     git clone [https://github.com/Ja1Gualberto/Resolution-beecrowd.git](https://github.com/Ja1Gualberto/Resolution-beecrowd.git)
     ```
-2.  Navegue até a pasta do problema e execute conforme a linguagem:
+2.  Navegue até a pasta da linguagem (`python/`, `c/` ou `c++/`) e execute conforme a linguagem:
     * **Python:** `python3 1001.py < input.txt`
     * **C:** `gcc 1001.c -o 1001 && ./1001`
+    * **C++:** `g++ 1001.cpp -o 1001 && ./1001`
 
 ---
 
